@@ -15,7 +15,7 @@ function App() {
           <div className="flex items-center gap-3">
             <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-slate-900/85 ring-1 ring-teal-300/40">
               <span className="text-[10px] font-semibold tracking-[0.15em] text-teal-100">
-                Aisu
+                Aishu
               </span>
             </div>
             <div className="flex flex-col leading-tight">
