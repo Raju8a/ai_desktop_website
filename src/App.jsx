@@ -297,7 +297,7 @@ function App() {
       {/* Footer */}
       <footer className="relative z-10 border-t border-white/5 bg-slate-950/95 py-5 text-[11px] text-slate-400">
         <div className="mx-auto max-w-6xl px-4 flex flex-col md:flex-row gap-3 md:justify-between">
-          <span>© 2025 YourCompanyName. All rights reserved.</span>
+          <span>© 2025 Aisu. All rights reserved.</span>
           <div className="flex gap-4">
             <a href="#" className="hover:text-slate-100 transition">
               Terms
