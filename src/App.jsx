@@ -93,7 +93,7 @@ function App() {
             {/* Buttons – same position, lighter glow */}
             <div className="mt-8 flex flex-wrap items-center gap-4">
               <a
-                href="https://github.com/Raju8a/ai-desktop-worker-updates/releases/download/v1.0.6/AI-Desktop-Worker-Setup-1.0.6.exe"
+                href="https://github.com/Raju8a/ai-desktop-worker-updates/releases/download/v1.0.7/AI-Desktop-Worker-Setup-1.0.7.exe"
                 className="inline-flex items-center justify-center rounded-full bg-teal-300 px-6 py-2.5 text-[11px] font-semibold tracking-[0.18em] text-slate-950 shadow-md hover:brightness-110 transition"
               >
                 Download for Windows
@@ -159,7 +159,7 @@ function App() {
 
               {/* Download button – softer */}
               <a
-                href="https://github.com/Raju8a/ai-desktop-worker-updates/releases/download/v1.0.6/AI-Desktop-Worker-Setup-1.0.6.exe"
+                href="https://github.com/Raju8a/ai-desktop-worker-updates/releases/download/v1.0.7/AI-Desktop-Worker-Setup-1.0.7.exe"
                 className="mt-6 flex items-center justify-center rounded-2xl bg-teal-300/95 px-4 py-2.5 text-[11px] font-semibold tracking-[0.18em] text-slate-950 shadow-md hover:bg-teal-300 transition"
               >
                 Download .exe (64-bit)
